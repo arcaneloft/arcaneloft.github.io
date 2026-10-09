@@ -1,0 +1,5 @@
+# 전부 허용 — app-ads.txt 를 AdMob 크롤러가 읽어야 한다. 첫 화면(index.html)은 메타 태그로 색인만 막아 두었다.
+User-agent: *
+Allow: /
+
+Sitemap: https://arcaneloft.github.io/sitemap.xml
